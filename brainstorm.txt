@@ -1,0 +1,11 @@
+project domain: study matching app
+
+components:
+- user interface
+- store user's data and be able to extract
+- algorithm on how to match people
+- find a way to upload images
+-
+
+api resource:
+- ipgeolocation.io:
